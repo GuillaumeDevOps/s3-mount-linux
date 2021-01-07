@@ -1,4 +1,8 @@
-# Logs
+#s3 Password
+.passwd-s3fs
+**/.passwd-s3fs
+
+## Logs
 logs
 *.log
 npm-debug.log*
